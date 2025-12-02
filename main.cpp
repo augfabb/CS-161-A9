@@ -1,33 +1,33 @@
 // ------------- FILE HEADER -------------
-// Author ✅: 
-// Assignment ✅:
-// Date ✅:
+// Author ✅: August Fabbri
+// Assignment ✅: 9
+// Date ✅: 11/24/25
 // Citations: 
 
 
 // ------------- ZYBOOKS SCORES -------------
-// Chapter ✅: 
-// Participation ✅: 
-// Challenge ✅:
-// Labs ✅:
+// Chapter ✅: 9
+// Participation ✅: 100
+// Challenge ✅:100
+// Labs ✅:100
 
 
 // ------------- DISCORD POSTS -------------
 // https://discord.com/invite/URYKKf8YHm
-// Count ✅:
+// Count ✅:1
 // Links (Optional): 
 
 
 // ------------- DESIGN DOCUMENT -------------
-// A. INPUT ✅: 
-// B. OUTPUT ✅:
-// C. CALCULATIONS ✅:
-// D. LOGIC and ALGORITHMS ✅:
+// A. INPUT ✅: yes
+// B. OUTPUT ✅:yes
+// C. CALCULATIONS ✅:yes
+// D. LOGIC and ALGORITHMS ✅:yes
 //    (Optional) flow chart link or file name: 
 
 
 // ------------- TESTING -------------
-// PASS ALL GIVEN SAMPLE RUN TESTS ✅: 
+// PASS ALL GIVEN SAMPLE RUN TESTS ✅:yes 
 // (Optional) Additional tests count:   
 
 
